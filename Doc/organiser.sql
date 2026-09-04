@@ -1,0 +1,7 @@
+CREATE TABLE Organiser
+(
+    OrganiserID INT IDENTITY(1,1) PRIMARY KEY,
+    OrganiserName VARCHAR(100) NOT NULL,
+    Email VARCHAR(100) NOT NULL UNIQUE,
+    PhoneNumber VARCHAR(20) NOT NULL
+);
