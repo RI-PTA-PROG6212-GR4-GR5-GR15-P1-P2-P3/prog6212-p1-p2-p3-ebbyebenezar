@@ -13,6 +13,18 @@ RaceDay provides a digital solution that allows event information and participan
 
 
 
+**🚀 Getting Started**
+
+ ```
+ bash
+
+ git clone https://github.com/ST10300631/PROG6212-PART-1-2-3.git
+
+```
+
+
+
+
 
 
 
