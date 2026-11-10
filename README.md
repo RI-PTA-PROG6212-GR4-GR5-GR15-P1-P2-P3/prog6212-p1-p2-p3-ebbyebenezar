@@ -21,6 +21,8 @@ RaceDay provides a digital solution that allows event information and participan
  git clone https://github.com/ST10300631/PROG6212-PART-1-2-3.git
 
 ```
+### Github workFlow
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f37a24b-83ce-431c-a8d4-91cead4af226" />
 
 
 
