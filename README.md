@@ -64,6 +64,10 @@ RaceDay provides a digital solution that allows event information and participan
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d7bb73a-108e-431d-a2c4-55cb773ebf19" />
 
 
+### swagger
+`<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6a51e8b-ffdd-4339-b274-63d6a233ce6c" />
+
+
 
 
 
