@@ -29,8 +29,13 @@ RaceDay provides a digital solution that allows event information and participan
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/beb4ae9e-88b4-4931-a7e9-c0eebfda4b6d" />
 
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e289188e-b7e9-4532-a4d7-3a4c8b885ec2" />
 
+
+### EventData stored
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72ad129c-e6b6-4f69-8bc5-387d24879101" />
 
 
 
