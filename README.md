@@ -38,6 +38,8 @@ RaceDay provides a digital solution that allows event information and participan
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72ad129c-e6b6-4f69-8bc5-387d24879101" />
 
 
+### weather forcaste
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e899ae4b-1c71-46a2-84a6-0219aac4ad58" />
 
 
 
