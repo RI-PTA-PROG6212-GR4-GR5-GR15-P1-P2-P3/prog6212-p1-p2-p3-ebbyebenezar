@@ -46,6 +46,9 @@ RaceDay provides a digital solution that allows event information and participan
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6b2dec8-e347-4e0e-b10d-824dba462da9" />
 
 
+###Participant module
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bcdbac6-6b18-4c2e-b087-4a355a5bd7ad" />
+
 
 
 
